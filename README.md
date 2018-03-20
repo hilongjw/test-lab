@@ -5,3 +5,6 @@
 ```bash
 node --allow-natives-syntax xxx.js
 ```
+
+
+[quit](chrome://quit/) 
